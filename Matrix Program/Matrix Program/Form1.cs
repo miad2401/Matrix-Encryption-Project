@@ -16,5 +16,15 @@ namespace Matrix_Program
         {
             InitializeComponent();
         }
+
+        private void encryptToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void decryptToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
