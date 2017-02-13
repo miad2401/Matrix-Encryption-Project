@@ -1,0 +1,9 @@
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\bin\Debug\Matrix Program.exe.config
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\bin\Debug\Matrix Program.exe
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\bin\Debug\Matrix Program.pdb
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\obj\Debug\Matrix Program.csprojResolveAssemblyReference.cache
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\obj\Debug\Matrix_Program.Form1.resources
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\obj\Debug\Matrix_Program.Properties.Resources.resources
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\obj\Debug\Matrix Program.csproj.GenerateResource.Cache
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\obj\Debug\Matrix Program.exe
+C:\Users\deshon\Documents\GitHub\Matrix-Encryption-Project\Matrix Program\Matrix Program\obj\Debug\Matrix Program.pdb
